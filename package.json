@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "tsc --build",
+    "start": "node ./dist"
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
